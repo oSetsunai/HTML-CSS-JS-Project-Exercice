@@ -4,3 +4,4 @@ This rep contains front-end and back-end projects from the roadmap.sh front-end 
 ## Projects List
 
 [Simple-Page CV](https://github.com/oSetsunai/HTML-CSS-JS-Project-Exercice/tree/main/Simple-Page%20CV)
+[Unit Converter](https://github.com/oSetsunai/HTML-CSS-JS-Project-Exercice/tree/main/UnitConverter)
