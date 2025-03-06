@@ -1,0 +1,14 @@
+:root{
+    --header: lightgreen;
+    --miniheader: lightblue;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+section h2{
+    color: var(--header);
+}
+section h3{
+    color: var(--miniheader)
+}
